@@ -1,5 +1,1 @@
-This is a test project
-haha
-haha2
-haha3
-haha4
+This repo is for testing GitHub Action, before setting it up in the production repo.
